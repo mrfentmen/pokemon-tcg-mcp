@@ -1,13 +1,13 @@
-# pokemon-tcg-mcp
+# pokemon tcg mcp
 
-The Pokémon TCG via [TCGdex](https://www.tcgdex.dev/) — open database, no key.
+The Pokémon TCG via [TCGdex](https://www.tcgdex.dev/), open database, no key.
 
 ## Tools
 
-- `search_cards` — search by name, filter by rarity
-- `get_card` — full card: HP, types, abilities, attacks, weakness, market prices
-- `list_sets` — all sets, newest first
-- `get_set` — a set with its full card list
+- `search_cards`, search by name, filter by rarity
+- `get_card`, full card: HP, types, abilities, attacks, weakness, market prices
+- `list_sets`, all sets, newest first
+- `get_set`, a set with its full card list
 
 ## Run
 
